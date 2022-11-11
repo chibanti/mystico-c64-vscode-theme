@@ -1,0 +1,42 @@
+{
+  "name": "mystico-c64",
+  "displayName": "Mystico - C64",
+  "description": "Mystico - Commodore 64 color theme",
+  "version": "0.1.0",
+  "publisher": "Chibantichic",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/mystico-c64.png",
+  "galleryBanner": {
+    "color": "#3e31a2",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mystico - C64",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mystico-c64-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/chibanti/mystico-c64-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/chibanti/mystico-c64-vscode-theme/issues",
+    "email": "nashuapc@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chibanti/mystico-c64-vscode-theme.git"
+  },
+  "__metadata": {
+    "id": "b8b09473-b963-43b8-b987-5c58d9e9d6d8",
+    "publisherId": "959ed040-f750-4c6a-93aa-1a28d810ffd5",
+    "publisherDisplayName": "Chibantichic",
+    "installedTimestamp": 1622061733634
+  }
+}
