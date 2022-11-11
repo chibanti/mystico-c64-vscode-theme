@@ -2,7 +2,7 @@
   "name": "mystico-c64",
   "displayName": "Mystico - C64",
   "description": "Mystico - Commodore 64 color theme",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "Chibantichic",
   "engines": {
     "vscode": "^1.55.0"
