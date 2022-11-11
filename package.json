@@ -1,7 +1,7 @@
 {
   "name": "mystico-c64",
   "displayName": "Mystico - C64",
-  "description": "Mystico - Commodore 64 color theme",
+  "description": "Mystico - Commodore 64 color theme for Visual Studio Code",
   "version": "0.5.0",
   "publisher": "Chibantichic",
   "engines": {
