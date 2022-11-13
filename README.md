@@ -2,7 +2,7 @@
 
 This is the mystico C64 theme for [Visual Studio Code](http://code.visualstudio.com).
 
-A theme based on the 16 colors of the Commodore 64.
+A theme based on the 16 colors of the Commodore 64. Using Pixcen color scheme.
 
 ![Screenshot](https://raw.githubusercontent.com/chibanti/mystico-c64-vscode-theme/master/images/screenshots/screenshot-1.png)
 
