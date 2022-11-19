@@ -21,6 +21,16 @@
         "label": "Mystico - C64",
         "uiTheme": "vs-dark",
         "path": "./themes/mystico-c64-color-theme.json"
+      },
+      {
+        "label": "Mystico - C64 (Pepto PAL)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mystico-c64-pepto-pal-color-theme.json"
+      },
+      {
+        "label": "Mystico - C64 (Pepto NTSC Sony)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mystico-c64-pepto-ntsc-sony-color-theme.json"
       }
     ]
   },
