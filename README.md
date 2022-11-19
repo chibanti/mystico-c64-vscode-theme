@@ -12,13 +12,13 @@ A theme based on the 16 colors of the Commodore 64.
 
 Also included
 
+## Pepto PAL
+
+![Screenshot](https://raw.githubusercontent.com/chibanti/mystico-c64-vscode-theme/master/images/screenshots/screenshot-pepto-pal.png)
+
 ## Pepto NTSC Sony
 
 ![Screenshot](https://raw.githubusercontent.com/chibanti/mystico-c64-vscode-theme/master/images/screenshots/screenshot-pepto-ntsc-sony.png)
- 
-## Pepto PAL
-
-![Screenshot](https://raw.githubusercontent.com/chibanti/mystico-c64-vscode-theme/master/images/screenshots/screenshot-1.png)
 
 Enjoy!
 
